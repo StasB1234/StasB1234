@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I am Staš and I am a student at Faculty of mechanical engineering in Ljubljana, Slovenia.
+## I have interests in fluid dynamics, mathematics and other brancehs of mechanical engineering.
 <!--
 **StasB1234/StasB1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
